@@ -1,0 +1,11 @@
+.DS_store
+.vscode
+
+Manifest.toml
+
+experiments/datasets
+experiments/*/*.txt
+experiments/*/*.pdf
+experiments/*/*.jsonl
+experiments/*/convergence_plot_data
+experiments/*/gamma_plot_data
