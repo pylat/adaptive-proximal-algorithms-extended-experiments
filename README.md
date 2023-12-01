@@ -2,7 +2,7 @@
 
 This repository contains Julia code for experiments of the paper
 
-> Latafat, Themelis, Patrinos, *On the convergence of adaptive first order methods: proximal gradient and alternating minimization algorithms*, [arXiv:???](https://arxiv.org/abs/2301.04431) (2023).
+> Latafat, Themelis, Patrinos, *On the convergence of adaptive first order methods: proximal gradient and alternating minimization algorithms*, [arXiv:2301.04431](https://arxiv.org/abs/2301.04431) (2023).
 
 Algorithms are implemented in [this](https://github.com/pylat/adaptive-proximal-algorithms) repository. 
 
